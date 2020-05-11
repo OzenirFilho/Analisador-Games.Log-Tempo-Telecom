@@ -4,7 +4,7 @@
 
 
 
-## Nome Do Projeto = GAME LOG 
+## Nome Do Projeto = Quake log parser
 
 ### Projeto final uma api em NodeJs no Backend trabalhando com ReactJs no FrontEnd
 

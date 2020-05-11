@@ -1,10 +1,8 @@
-# Analisador-Games.log-Tempo-Telecom
-
 # PROJETO ANALISADOR DE LOGS
 
 
 
-## Nome Do Projeto = Quake log parser
+## Nome Do Projeto = GAME LOG 
 
 ### Projeto final uma api em NodeJs no Backend trabalhando com ReactJs no FrontEnd
 

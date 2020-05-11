@@ -1,0 +1,1 @@
+# Analisador-Games.log-Tempo-Telecom
